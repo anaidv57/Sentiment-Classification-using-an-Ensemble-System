@@ -276,7 +276,7 @@ def train_classifier3(embedding_matrix, x_train, x_test, y_train, y_test, previo
     print("Testing accuracy", acc_test) 
     return model, history, acc_train, acc_test, weights
 
-#CNN  2
+#CNN  4
   
 def train_classifier4(embedding_matrix, x_train, x_test, y_train, y_test, previous_weight=False, weights=0):
     
