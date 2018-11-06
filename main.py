@@ -6,21 +6,10 @@ Created on Sun Apr 29 12:14:26 2018
 """
 
 from __future__ import print_function
-#from keras.preprocessing import sequence
 from keras.models import Sequential
-#from keras.layers import Dense, Dropout, Activation, Flatten
-#from keras.layers import Embedding
-#from keras.layers import Conv1D, GlobalMaxPooling1D
-#from keras.datasets import imdb
-#from keras.utils.vis_utils import plot_model
-#from sklearn.metrics import accuracy_score
 import numpy as np
 from datetime import datetime 
 import pandas as pd
-#from nltk.tokenize import word_tokenize 
-#import re
-#from sklearn.model_selection import train_test_split, cross_validate
-#import matplotlib.pyplot as plt
 from numpy.random import seed
 import random
 
